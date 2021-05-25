@@ -1,6 +1,6 @@
 Angular Spectrum Colorpicker
 ============================
--
+--
 [![Build Status](https://travis-ci.org/Jimdo/angular-spectrum-colorpicker.png)](https://travis-ci.org/Jimdo/angular-spectrum-colorpicker)
 [![Coverage Status](https://coveralls.io/repos/Jimdo/angular-spectrum-colorpicker/badge.png?branch=master)](https://coveralls.io/r/Jimdo/angular-spectrum-colorpicker?branch=master)
 [![devDependency Status](https://david-dm.org/Jimdo/angular-spectrum-colorpicker/dev-status.svg)](https://david-dm.org/Jimdo/angular-spectrum-colorpicker#info=devDependencies)
